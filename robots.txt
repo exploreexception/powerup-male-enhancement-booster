@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/powerup-male-enhancement-booster/sitemap.xml
+Sitemap: https://powerup-male-enhancement-booster.vercel.app/sitemap-vercel.xml
+Sitemap: https://powerup-male-enhancement-booster.pages.dev/sitemap-cloudflare.xml
